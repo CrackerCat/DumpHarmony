@@ -15,7 +15,7 @@
 4. 使用DevEco Studio运行应用，过滤日志输出“DumpHarmony”查看上传进度，文件保存在uploads下。
 
 ## 为什么不使用hdc shell获取
-华为对hdc shell的权限限制极为严格，并不能访问系统大部分文件路径的内容，所以无法像Android手机一样通过adb shell来获取文件。如果在Android上有类似的需求可以使用：https://github.com/wrlu/Android-Tools。
+华为对hdc shell的权限限制极为严格，并不能访问系统大部分文件路径的内容，所以无法像Android手机一样通过adb shell来获取文件。如果在Android上有类似的需求可以使用：https://github.com/wrlu/Android-Tools
 
 ## License
 MIT License
